@@ -34,7 +34,8 @@
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="cloud" />
 
-    <content src="index.html" />
+    <!-- <content src="index.html" /> -->
+    <content src="http://www.pop-phrase.com" />
 
     <plugins>
         <plugin name="Device" value="CDVDevice" />
